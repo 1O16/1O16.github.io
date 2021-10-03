@@ -1,2 +1,0 @@
-# Momentum
-JavaScript Challenge End
